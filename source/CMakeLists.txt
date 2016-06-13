@@ -16,7 +16,6 @@ include_directories ("${PROJECT_SOURCE_DIR}/presentation/")
 include_directories ("${PROJECT_SOURCE_DIR}/session/")
 include_directories ("${PROJECT_SOURCE_DIR}/application/")
 
-include_directories("$(PROJECT_BINARY_DIR)")
 include_directories(".")
 include_directories("/usr/include/dbus-c++-1")
 
